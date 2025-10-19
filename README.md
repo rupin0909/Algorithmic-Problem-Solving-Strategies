@@ -7,4 +7,5 @@ https://algospot.com/judge/problem/list/?source=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A
 
 특정 영단어로 되어있는 cpp file은 위 링크에서 제공되는 도서의 문제들에 대한 풀이 cpp file이며, 정답으로 인정된 것을 chapter별로 모아두었습니다.
 
-이외의 cpp file은 도서 내의 설명을 위해 제공되는 코드를 C++로 따라서 작성해본 file과 C, 자주 사용하는 언어로 다시 작성한 2개의 동일한 이름이지만 _C, _CPP로 끝나는 file들입니다.
+이외의 cpp file은 도서 내의 설명을 위해 제공되는 코드를 C++로 따라서 작성해본 file이며,
+pseudocode가 많아서 정상적으로 작동하지 않을 확률이 높습니다.
